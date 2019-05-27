@@ -15,3 +15,4 @@ end
 
 def assign_rooms(room_assignments)
   
+  puts 
