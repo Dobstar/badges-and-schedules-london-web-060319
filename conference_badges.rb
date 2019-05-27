@@ -17,5 +17,5 @@ def assign_rooms(room_assignments)
   indexplusone = index + 1 
   room_assignments = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   room.assignments.each_with_index do |names, index|
-    puts "Hello, {#"
+    puts "Hello,#{name}"
   puts 
