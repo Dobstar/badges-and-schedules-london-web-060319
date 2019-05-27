@@ -14,5 +14,5 @@ end
 end 
 
 def assign_rooms(room_assignments)
-  
+  room_assignments = []
   puts 
