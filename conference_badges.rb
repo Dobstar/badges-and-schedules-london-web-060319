@@ -12,7 +12,7 @@ attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 attendees.each_with_index do |names, index|
   puts "Hello my name is #{name}"
 end 
-end 
+batch_badge_creator(attendees)
 
 def assign_rooms(room_assignments)
   indexplusone = index + 1 
